@@ -9,7 +9,7 @@
 
 #### Video
 
-The video can be found on YouTube at:
+The video can be found on YouTube at: https://www.youtube.com/watch?v=WMESmznfL80
 
 
 #### Code
